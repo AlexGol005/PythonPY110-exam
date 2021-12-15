@@ -1,7 +1,10 @@
 import json
 import random
+from typing import Iterator
 
 from faker import Faker
+
+from conf import MODEL
 
 J = 'output1.json'
 
@@ -10,15 +13,7 @@ def model():
     генерирует .
     :return: .
     """
-    return 'shop_final.book1'
-
-
-def pk():
-    """
-    генерирует .
-    :return: .
-    """
-    return '1_1'
+    return MODEL
 
 
 def title()-> str:
@@ -48,12 +43,13 @@ def pages()-> int:
     return random.randint(10, 5000)
 
 
-def isbn13():
+def isbn13() -> str:
     """
-    генерирует .
-    :return: .
+    генерирует международный стандартный книжный номер
+    :return: международный стандартный книжный номер
     """
-    return '978-1-60487-647-5   1'
+    fake = Faker()
+    return fake.isbn13()
 
 
 def rating()-> float:
@@ -78,33 +74,34 @@ def author()-> list:
     :return: список авторов
     """
     fake = Faker()
-    autors_list = []
+    autors_list = []  # fixme list comprehension
     for i in range(random.randint(1, 3)):
         autors_list.append(fake.name())
     return autors_list
 
 
-
-def gen() -> iter:
+def gen(pk=1) -> Iterator[dict]:
     """
    генерирует итератор словаря с данными книги
     :return:
     """
+
     while True:
         dict_book = {
-    "model": model(),
-    "pk": pk(),
-    "fields": {
-        "title": title(),
-        "year": year(),
-        "pages": pages(),
-        "isbn13": isbn13(),
-        "rating": rating(),
-        "price": price(),
-        "author": author()
-    }
-}
+            "model": model(),
+            "pk": pk,
+            "fields": {
+                "title": title(),
+                "year": year(),
+                "pages": pages(),
+                "isbn13": isbn13(),
+                "rating": rating(),
+                "price": price(),
+                "author": author()
+            }
+        }
         yield dict_book
+        pk += 1
 
 
 def json_gen(fn):
