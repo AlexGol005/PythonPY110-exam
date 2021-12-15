@@ -132,7 +132,7 @@ def main():
     вызывает генератор списка словарей книг  100 раз и записывает результат в json файл output1.json
     :return: список словарей книг, заполненный json файл
     """
-    return  list_gen(50)
+    return  list_gen(100)
 
 
 if __name__ == "__main__":
