@@ -1,4 +1,5 @@
 import json
+import itertools
 import random
 from typing import Iterator
 
@@ -8,26 +9,29 @@ from conf import MODEL
 
 J = 'output1.json'
 
-def model():
+
+def model() -> str:
     """
-    генерирует .
-    :return: .
+    генерирует модель
+    :return: модель
     """
     return MODEL
 
 
-def title()-> str:
+def title() -> str:
     """
     генерирует названия книг из файла books.txt
     :return: название книги
     """
     titles = 'books.txt'
-    with open(titles, encoding = 'utf8') as f:
-            a = random.choice(f.readlines())
+    with open(titles, encoding='utf8') as f:
+        iter_ = itertools.cycle(f)
+        for _ in range(random.randint(1, 100)):
+            a = next(iter_)
     return a.rstrip()
 
 
-def year()-> int:
+def year() -> int:
     """
     генерирует год выпуска книги
     :return: год выпуска
@@ -35,7 +39,7 @@ def year()-> int:
     return random.randint(1900, 2021)
 
 
-def pages()-> int:
+def pages() -> int:
     """
     генерирует количество страниц
     :return: количество страниц
@@ -52,7 +56,7 @@ def isbn13() -> str:
     return fake.isbn13()
 
 
-def rating()-> float:
+def rating() -> float:
     """
     генерирует место в рейтинге
     :return: место в рейтинге
@@ -60,7 +64,7 @@ def rating()-> float:
     return round(random.uniform(0, 5), 1)
 
 
-def price()-> float:
+def price() -> float:
     """
     генерирует стоимость
     :return: стоимость
@@ -68,15 +72,13 @@ def price()-> float:
     return round(random.uniform(100.0, 5000.9), 2)
 
 
-def author()-> list:
+def author() -> list:
     """
     генерирует список авторов от одного до трех
     :return: список авторов
     """
     fake = Faker()
-    autors_list = []  # fixme list comprehension
-    for i in range(random.randint(1, 3)):
-        autors_list.append(fake.name())
+    autors_list = [fake.name() for _ in range(random.randint(1, 3))]
     return autors_list
 
 
@@ -109,13 +111,16 @@ def json_gen(fn):
     Декоратор преобразует вывод функции в json файл output1.json
     :return: запись в файле json
     """
+
     def wrapper(n):
-        with open(J, 'w', encoding = 'utf8') as f:
-            json.dump(fn(n), f, indent=4, ensure_ascii= False)
+        with open(J, 'w', encoding='utf8') as f:
+            json.dump(fn(n), f, indent=4, ensure_ascii=False)
+
     return wrapper
 
+
 @json_gen
-def list_gen(n: int)-> list:
+def list_gen(n: int) -> list:
     """
     Вызывает итератор генератора словаря n раз и создаёт список словарей с данными книг
     :return: список словарей с данными книг
@@ -127,14 +132,14 @@ def list_gen(n: int)-> list:
     print(list_books)
     return list_books
 
+
 def main():
     """
     вызывает генератор списка словарей книг  100 раз и записывает результат в json файл output1.json
     :return: список словарей книг, заполненный json файл
     """
-    return  list_gen(100)
+    return list_gen(100)
 
 
 if __name__ == "__main__":
     main()
-

@@ -3,15 +3,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1918,
-            "pages": 1531,
-            "isbn13": "978-1-284-49137-1",
-            "rating": 4.0,
-            "price": 3192.53,
+            "title": "Малыш и Карлсон",
+            "year": 1906,
+            "pages": 1553,
+            "isbn13": "978-0-9623916-7-5",
+            "rating": 1.2,
+            "price": 793.38,
             "author": [
-                "Stephen Shepard",
-                "Christina Lewis"
+                "Bryan Freeman",
+                "Jesse Stone"
             ]
         }
     },
@@ -20,15 +20,13 @@
         "pk": 2,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 2015,
-            "pages": 555,
-            "isbn13": "978-0-7463-1409-8",
-            "rating": 4.8,
-            "price": 3994.41,
+            "year": 1948,
+            "pages": 1237,
+            "isbn13": "978-1-324-25036-4",
+            "rating": 3.3,
+            "price": 3512.59,
             "author": [
-                "James Williamson",
-                "Bobby Johnson",
-                "Taylor Barker"
+                "Veronica Allen"
             ]
         }
     },
@@ -36,15 +34,15 @@
         "model": "shop_final.book",
         "pk": 3,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1963,
-            "pages": 330,
-            "isbn13": "978-0-9634342-3-4",
-            "rating": 3.8,
-            "price": 3592.56,
+            "title": "Дюймовочка",
+            "year": 1974,
+            "pages": 3850,
+            "isbn13": "978-0-254-89856-1",
+            "rating": 2.2,
+            "price": 484.41,
             "author": [
-                "Tammy Lynch",
-                "Kimberly Barnett"
+                "Evelyn Peterson",
+                "Andrew Johnson"
             ]
         }
     },
@@ -52,15 +50,14 @@
         "model": "shop_final.book",
         "pk": 4,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1941,
-            "pages": 580,
-            "isbn13": "978-0-12-639329-3",
-            "rating": 1.2,
-            "price": 2264.41,
+            "title": "Дюймовочка",
+            "year": 1951,
+            "pages": 2088,
+            "isbn13": "978-1-55645-288-8",
+            "rating": 3.9,
+            "price": 339.73,
             "author": [
-                "Frank Le",
-                "Robin Little"
+                "Andrew Leblanc"
             ]
         }
     },
@@ -68,15 +65,16 @@
         "model": "shop_final.book",
         "pk": 5,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1915,
-            "pages": 3886,
-            "isbn13": "978-0-568-49989-8",
-            "rating": 0.5,
-            "price": 1745.16,
+            "title": "Малыш и Карлсон",
+            "year": 1908,
+            "pages": 4021,
+            "isbn13": "978-1-00-435520-4",
+            "rating": 0.9,
+            "price": 1398.89,
             "author": [
-                "Rebecca Gibson",
-                "Linda White"
+                "Christopher Mcdowell",
+                "Cynthia Ingram",
+                "Scott Nelson"
             ]
         }
     },
@@ -84,14 +82,14 @@
         "model": "shop_final.book",
         "pk": 6,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1919,
-            "pages": 1352,
-            "isbn13": "978-0-642-77843-7",
-            "rating": 1.4,
-            "price": 4618.53,
+            "title": "Волшебник изумрудного города",
+            "year": 1948,
+            "pages": 4379,
+            "isbn13": "978-0-04-783716-6",
+            "rating": 0.3,
+            "price": 3921.27,
             "author": [
-                "Jason Carlson"
+                "Mrs. Megan Sanchez"
             ]
         }
     },
@@ -99,15 +97,14 @@
         "model": "shop_final.book",
         "pk": 7,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1998,
-            "pages": 4369,
-            "isbn13": "978-0-662-32334-1",
-            "rating": 0.3,
-            "price": 3567.79,
+            "title": "Волшебник изумрудного города",
+            "year": 1913,
+            "pages": 4140,
+            "isbn13": "978-1-76864-275-6",
+            "rating": 2.5,
+            "price": 2579.56,
             "author": [
-                "Ann Bruce",
-                "Roberta Little"
+                "Vickie Shaw"
             ]
         }
     },
@@ -115,15 +112,14 @@
         "model": "shop_final.book",
         "pk": 8,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1918,
-            "pages": 720,
-            "isbn13": "978-1-70337-384-4",
-            "rating": 4.7,
-            "price": 2787.54,
+            "title": "Незнайка на луне",
+            "year": 1908,
+            "pages": 2659,
+            "isbn13": "978-0-7806-9724-9",
+            "rating": 1.0,
+            "price": 2264.61,
             "author": [
-                "Sarah Phillips",
-                "Dawn Cardenas"
+                "James Smith"
             ]
         }
     },
@@ -131,14 +127,15 @@
         "model": "shop_final.book",
         "pk": 9,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1917,
-            "pages": 2394,
-            "isbn13": "978-0-89735-878-1",
-            "rating": 1.7,
-            "price": 4940.93,
+            "title": "Дюймовочка",
+            "year": 2020,
+            "pages": 1997,
+            "isbn13": "978-0-9627338-2-6",
+            "rating": 3.5,
+            "price": 4937.09,
             "author": [
-                "David Butler"
+                "Jerry Castaneda",
+                "Jessica Lewis"
             ]
         }
     },
@@ -147,13 +144,14 @@
         "pk": 10,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1972,
-            "pages": 1351,
-            "isbn13": "978-1-62894-946-9",
-            "rating": 1.2,
-            "price": 862.39,
+            "year": 2008,
+            "pages": 2312,
+            "isbn13": "978-1-62764-846-2",
+            "rating": 3.0,
+            "price": 649.78,
             "author": [
-                "Lisa Lyons"
+                "Christopher Edwards",
+                "Ann Rogers"
             ]
         }
     },
@@ -161,15 +159,14 @@
         "model": "shop_final.book",
         "pk": 11,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1946,
-            "pages": 3143,
-            "isbn13": "978-1-5044-7253-1",
-            "rating": 3.5,
-            "price": 2577.66,
+            "title": "Волшебник изумрудного города",
+            "year": 1957,
+            "pages": 2678,
+            "isbn13": "978-1-68569-268-1",
+            "rating": 1.2,
+            "price": 1573.83,
             "author": [
-                "Zachary Gallegos",
-                "Katie Walker"
+                "Alexandria Thompson"
             ]
         }
     },
@@ -177,16 +174,14 @@
         "model": "shop_final.book",
         "pk": 12,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1967,
-            "pages": 2637,
-            "isbn13": "978-0-502-38256-9",
-            "rating": 2.0,
-            "price": 2479.09,
+            "title": "Муми-тролль и комета",
+            "year": 1957,
+            "pages": 3755,
+            "isbn13": "978-1-77187-088-7",
+            "rating": 1.0,
+            "price": 4091.17,
             "author": [
-                "Brian Thompson",
-                "Zachary Gutierrez",
-                "Jack Woods"
+                "Charles Martin"
             ]
         }
     },
@@ -194,15 +189,14 @@
         "model": "shop_final.book",
         "pk": 13,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1936,
-            "pages": 4202,
-            "isbn13": "978-0-678-67697-4",
-            "rating": 1.4,
-            "price": 4125.78,
+            "title": "Муми-тролль и комета",
+            "year": 1997,
+            "pages": 2089,
+            "isbn13": "978-1-08-297642-1",
+            "rating": 1.8,
+            "price": 2391.11,
             "author": [
-                "Cynthia Morrow",
-                "Tony Hester"
+                "Samuel Boyd"
             ]
         }
     },
@@ -210,16 +204,14 @@
         "model": "shop_final.book",
         "pk": 14,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1937,
-            "pages": 2145,
-            "isbn13": "978-0-9719508-3-2",
-            "rating": 1.7,
-            "price": 1746.79,
+            "title": "Незнайка на луне",
+            "year": 1980,
+            "pages": 3347,
+            "isbn13": "978-1-5008-1599-8",
+            "rating": 2.6,
+            "price": 336.78,
             "author": [
-                "Hannah Bird",
-                "Brian Kelly",
-                "Heather Stein"
+                "Douglas Smith"
             ]
         }
     },
@@ -228,14 +220,14 @@
         "pk": 15,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1979,
-            "pages": 1961,
-            "isbn13": "978-1-4655-1243-7",
-            "rating": 0.3,
-            "price": 1498.9,
+            "year": 1925,
+            "pages": 3607,
+            "isbn13": "978-1-5125-2720-9",
+            "rating": 0.6,
+            "price": 3727.84,
             "author": [
-                "Mindy Scott",
-                "Brenda Johnson"
+                "Antonio Lee",
+                "Sarah Ponce"
             ]
         }
     },
@@ -243,15 +235,14 @@
         "model": "shop_final.book",
         "pk": 16,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1968,
-            "pages": 4710,
-            "isbn13": "978-0-05-029694-3",
-            "rating": 3.1,
-            "price": 2975.38,
+            "title": "Муми-тролль и комета",
+            "year": 1965,
+            "pages": 181,
+            "isbn13": "978-1-66250-995-7",
+            "rating": 3.9,
+            "price": 2922.4,
             "author": [
-                "Dennis Bishop Jr.",
-                "Peter Johnson"
+                "Stacey Davis"
             ]
         }
     },
@@ -259,16 +250,16 @@
         "model": "shop_final.book",
         "pk": 17,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1999,
-            "pages": 2240,
-            "isbn13": "978-0-8304-2007-0",
-            "rating": 3.0,
-            "price": 872.49,
+            "title": "Дюймовочка",
+            "year": 1941,
+            "pages": 90,
+            "isbn13": "978-1-243-60115-5",
+            "rating": 3.4,
+            "price": 4617.45,
             "author": [
-                "Jordan Miranda",
-                "Savannah Peck",
-                "Lauren Martin"
+                "Mr. Brian Robinson MD",
+                "Wanda Jones",
+                "Mr. Timothy Guzman PhD"
             ]
         }
     },
@@ -276,14 +267,16 @@
         "model": "shop_final.book",
         "pk": 18,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1989,
-            "pages": 4406,
-            "isbn13": "978-0-7066-7170-4",
-            "rating": 1.8,
-            "price": 1613.5,
+            "title": "Незнайка на луне",
+            "year": 1978,
+            "pages": 1699,
+            "isbn13": "978-0-11-483976-5",
+            "rating": 1.5,
+            "price": 1688.36,
             "author": [
-                "Kevin Ball"
+                "Kimberly Morgan",
+                "Willie Espinoza",
+                "Elizabeth Mccullough"
             ]
         }
     },
@@ -292,15 +285,14 @@
         "pk": 19,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 2004,
-            "pages": 4624,
-            "isbn13": "978-1-09-381663-1",
-            "rating": 1.2,
-            "price": 4846.49,
+            "year": 1919,
+            "pages": 4388,
+            "isbn13": "978-1-70485-955-2",
+            "rating": 0.5,
+            "price": 739.79,
             "author": [
-                "Joanne Williams",
-                "Andrea Oliver",
-                "Andrew Larson"
+                "Erin Fernandez",
+                "Nancy Dawson"
             ]
         }
     },
@@ -308,16 +300,16 @@
         "model": "shop_final.book",
         "pk": 20,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1905,
-            "pages": 4014,
-            "isbn13": "978-1-62584-392-0",
-            "rating": 0.2,
-            "price": 1755.77,
+            "title": "Малыш и Карлсон",
+            "year": 1954,
+            "pages": 816,
+            "isbn13": "978-0-05-932658-0",
+            "rating": 0.3,
+            "price": 926.28,
             "author": [
-                "Mary Krause",
-                "Kimberly Noble",
-                "Brandon Martinez"
+                "Jason Daniel",
+                "Mark Floyd",
+                "Mrs. Sharon Miller"
             ]
         }
     },
@@ -325,15 +317,16 @@
         "model": "shop_final.book",
         "pk": 21,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1962,
-            "pages": 2065,
-            "isbn13": "978-0-458-42783-3",
-            "rating": 2.9,
-            "price": 4745.93,
+            "title": "Волшебник изумрудного города",
+            "year": 2000,
+            "pages": 98,
+            "isbn13": "978-1-03-812376-3",
+            "rating": 3.1,
+            "price": 2708.54,
             "author": [
-                "Ricky Thomas",
-                "Ryan Lee"
+                "Anita Daniels",
+                "William Boyer",
+                "Kevin Franklin"
             ]
         }
     },
@@ -341,15 +334,14 @@
         "model": "shop_final.book",
         "pk": 22,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1925,
-            "pages": 4378,
-            "isbn13": "978-1-181-34810-5",
-            "rating": 0.6,
-            "price": 727.21,
+            "title": "Незнайка на луне",
+            "year": 2019,
+            "pages": 2738,
+            "isbn13": "978-0-233-77074-1",
+            "rating": 4.6,
+            "price": 815.29,
             "author": [
-                "Cynthia Case",
-                "Clifford Smith"
+                "Dylan Pope"
             ]
         }
     },
@@ -357,14 +349,16 @@
         "model": "shop_final.book",
         "pk": 23,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 2006,
-            "pages": 142,
-            "isbn13": "978-1-922154-89-7",
-            "rating": 2.9,
-            "price": 3135.95,
+            "title": "Дюймовочка",
+            "year": 1925,
+            "pages": 3230,
+            "isbn13": "978-1-5183-1037-9",
+            "rating": 0.6,
+            "price": 2834.27,
             "author": [
-                "Sean Miller"
+                "John Reed",
+                "Jaime Gregory",
+                "Erica Hardy"
             ]
         }
     },
@@ -373,15 +367,15 @@
         "pk": 24,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1927,
-            "pages": 3390,
-            "isbn13": "978-1-4768-3368-2",
-            "rating": 4.3,
-            "price": 1381.86,
+            "year": 1989,
+            "pages": 3681,
+            "isbn13": "978-0-447-96086-0",
+            "rating": 5.0,
+            "price": 4385.37,
             "author": [
-                "Susan Black",
-                "Kevin Johnson",
-                "Nicholas Adams"
+                "James Ball",
+                "Shawn Gray",
+                "Cynthia House"
             ]
         }
     },
@@ -389,16 +383,14 @@
         "model": "shop_final.book",
         "pk": 25,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1946,
-            "pages": 663,
-            "isbn13": "978-0-525-81691-1",
-            "rating": 3.3,
-            "price": 4359.61,
+            "title": "Незнайка на луне",
+            "year": 1998,
+            "pages": 1524,
+            "isbn13": "978-1-382-26216-3",
+            "rating": 0.2,
+            "price": 102.17,
             "author": [
-                "Nicole Solis",
-                "Natalie Wagner",
-                "Dustin Shepherd"
+                "Philip Beck"
             ]
         }
     },
@@ -407,14 +399,15 @@
         "pk": 26,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1938,
-            "pages": 4203,
-            "isbn13": "978-1-07-960003-2",
-            "rating": 4.0,
-            "price": 3905.1,
+            "year": 1901,
+            "pages": 2607,
+            "isbn13": "978-0-693-88390-6",
+            "rating": 2.5,
+            "price": 2703.95,
             "author": [
-                "Laura Keller",
-                "Timothy Garner"
+                "Michael Shaw",
+                "Jessica Yoder",
+                "Edward Wang"
             ]
         }
     },
@@ -422,16 +415,14 @@
         "model": "shop_final.book",
         "pk": 27,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1922,
-            "pages": 4509,
-            "isbn13": "978-1-01-530705-6",
-            "rating": 2.6,
-            "price": 2489.94,
+            "title": "Волшебник изумрудного города",
+            "year": 1913,
+            "pages": 335,
+            "isbn13": "978-1-286-53930-9",
+            "rating": 2.1,
+            "price": 4946.07,
             "author": [
-                "Reginald Liu",
-                "Rebecca Collins",
-                "Vicki Williams"
+                "Suzanne Jones"
             ]
         }
     },
@@ -439,15 +430,16 @@
         "model": "shop_final.book",
         "pk": 28,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1991,
-            "pages": 206,
-            "isbn13": "978-0-949198-12-9",
-            "rating": 0.0,
-            "price": 1387.33,
+            "title": "Малыш и Карлсон",
+            "year": 1976,
+            "pages": 3126,
+            "isbn13": "978-1-394-39325-1",
+            "rating": 0.5,
+            "price": 4388.49,
             "author": [
-                "Kayla Warren",
-                "Mikayla Reid"
+                "Katelyn King",
+                "Nicholas Hunter",
+                "Miranda Rogers"
             ]
         }
     },
@@ -455,15 +447,15 @@
         "model": "shop_final.book",
         "pk": 29,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 2006,
-            "pages": 4789,
-            "isbn13": "978-1-912452-74-3",
-            "rating": 1.7,
-            "price": 4651.64,
+            "title": "Малыш и Карлсон",
+            "year": 2014,
+            "pages": 1945,
+            "isbn13": "978-1-107-30962-3",
+            "rating": 0.2,
+            "price": 1788.06,
             "author": [
-                "Kyle Edwards",
-                "Jay Diaz"
+                "Eric Lee",
+                "Erin Smith"
             ]
         }
     },
@@ -472,13 +464,13 @@
         "pk": 30,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1915,
-            "pages": 1500,
-            "isbn13": "978-1-292-19683-1",
-            "rating": 3.1,
-            "price": 1743.13,
+            "year": 1971,
+            "pages": 1597,
+            "isbn13": "978-1-09-500167-7",
+            "rating": 0.7,
+            "price": 452.08,
             "author": [
-                "Mary Gardner"
+                "Tammy Roberson"
             ]
         }
     },
@@ -487,14 +479,14 @@
         "pk": 31,
         "fields": {
             "title": "Дюймовочка",
-            "year": 1965,
-            "pages": 4474,
-            "isbn13": "978-0-13-723775-3",
-            "rating": 2.1,
-            "price": 3375.3,
+            "year": 1977,
+            "pages": 2863,
+            "isbn13": "978-0-381-26084-2",
+            "rating": 0.4,
+            "price": 4500.19,
             "author": [
-                "Janice Nichols",
-                "Daniel Morales"
+                "Mark Trujillo",
+                "Melissa Turner"
             ]
         }
     },
@@ -502,14 +494,15 @@
         "model": "shop_final.book",
         "pk": 32,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 2000,
-            "pages": 4825,
-            "isbn13": "978-0-365-42347-8",
-            "rating": 2.9,
-            "price": 1666.15,
+            "title": "Волшебник изумрудного города",
+            "year": 1968,
+            "pages": 3889,
+            "isbn13": "978-0-315-87034-5",
+            "rating": 2.7,
+            "price": 759.93,
             "author": [
-                "Donna Hale"
+                "Todd Brooks",
+                "Danielle Kim"
             ]
         }
     },
@@ -518,13 +511,13 @@
         "pk": 33,
         "fields": {
             "title": "Дюймовочка",
-            "year": 1924,
-            "pages": 4646,
-            "isbn13": "978-0-8331-4364-8",
-            "rating": 4.9,
-            "price": 1696.1,
+            "year": 1996,
+            "pages": 4234,
+            "isbn13": "978-1-226-86779-0",
+            "rating": 3.0,
+            "price": 3139.12,
             "author": [
-                "Edward Morales"
+                "Margaret Leach"
             ]
         }
     },
@@ -532,15 +525,16 @@
         "model": "shop_final.book",
         "pk": 34,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 2010,
-            "pages": 899,
-            "isbn13": "978-1-78205-164-0",
-            "rating": 2.4,
-            "price": 2518.71,
+            "title": "Незнайка на луне",
+            "year": 1930,
+            "pages": 4316,
+            "isbn13": "978-1-00-201566-7",
+            "rating": 1.7,
+            "price": 1097.91,
             "author": [
-                "Jesse Taylor",
-                "Shannon Vaughan"
+                "Kim Simon PhD",
+                "Allison Hartman",
+                "Lisa Woods"
             ]
         }
     },
@@ -548,16 +542,14 @@
         "model": "shop_final.book",
         "pk": 35,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1969,
-            "pages": 1839,
-            "isbn13": "978-1-972071-02-1",
-            "rating": 0.5,
-            "price": 1444.22,
+            "title": "Волшебник изумрудного города",
+            "year": 1976,
+            "pages": 639,
+            "isbn13": "978-1-4481-1313-2",
+            "rating": 3.3,
+            "price": 1356.28,
             "author": [
-                "Donald Wilson",
-                "Andrea Fitzpatrick",
-                "John Oliver"
+                "Michael Rivers"
             ]
         }
     },
@@ -565,15 +557,16 @@
         "model": "shop_final.book",
         "pk": 36,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1927,
-            "pages": 1619,
-            "isbn13": "978-0-16-311451-6",
-            "rating": 4.7,
-            "price": 4597.08,
+            "title": "Дюймовочка",
+            "year": 1967,
+            "pages": 824,
+            "isbn13": "978-0-461-66171-2",
+            "rating": 4.8,
+            "price": 4554.89,
             "author": [
-                "Christy Ford",
-                "Mary Garcia MD"
+                "Sara Joseph",
+                "Tara Jones",
+                "Christopher Allen"
             ]
         }
     },
@@ -581,15 +574,14 @@
         "model": "shop_final.book",
         "pk": 37,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1915,
-            "pages": 1855,
-            "isbn13": "978-1-4500-7968-6",
-            "rating": 1.3,
-            "price": 3905.13,
+            "title": "Волшебник изумрудного города",
+            "year": 1911,
+            "pages": 3315,
+            "isbn13": "978-1-71674-162-3",
+            "rating": 3.3,
+            "price": 3471.8,
             "author": [
-                "Danny Harrison",
-                "James Adams"
+                "Stefanie Martin"
             ]
         }
     },
@@ -598,13 +590,14 @@
         "pk": 38,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1957,
-            "pages": 48,
-            "isbn13": "978-0-7095-0132-9",
-            "rating": 4.5,
-            "price": 2458.21,
+            "year": 1953,
+            "pages": 1704,
+            "isbn13": "978-1-82282-565-1",
+            "rating": 3.9,
+            "price": 2357.24,
             "author": [
-                "Ryan Wolfe"
+                "Matthew Russell",
+                "Jacob Brooks"
             ]
         }
     },
@@ -612,14 +605,14 @@
         "model": "shop_final.book",
         "pk": 39,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1928,
-            "pages": 296,
-            "isbn13": "978-1-68885-820-6",
-            "rating": 1.8,
-            "price": 3232.05,
+            "title": "Малыш и Карлсон",
+            "year": 2011,
+            "pages": 3626,
+            "isbn13": "978-1-306-92487-0",
+            "rating": 2.5,
+            "price": 2667.36,
             "author": [
-                "Cameron Byrd"
+                "Paul Roth"
             ]
         }
     },
@@ -627,16 +620,15 @@
         "model": "shop_final.book",
         "pk": 40,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1918,
-            "pages": 3276,
-            "isbn13": "978-0-85136-733-0",
-            "rating": 1.5,
-            "price": 2868.06,
+            "title": "Дюймовочка",
+            "year": 2005,
+            "pages": 1673,
+            "isbn13": "978-1-64749-880-1",
+            "rating": 4.2,
+            "price": 1115.6,
             "author": [
-                "Christopher Smith",
-                "John Wilcox",
-                "Linda Terrell"
+                "Denise Richardson",
+                "Cynthia Scott"
             ]
         }
     },
@@ -644,14 +636,14 @@
         "model": "shop_final.book",
         "pk": 41,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1982,
-            "pages": 622,
-            "isbn13": "978-1-970178-23-4",
-            "rating": 5.0,
-            "price": 3663.56,
+            "title": "Незнайка на луне",
+            "year": 1954,
+            "pages": 904,
+            "isbn13": "978-0-428-88814-5",
+            "rating": 2.3,
+            "price": 4292.78,
             "author": [
-                "Kathryn Fitzpatrick"
+                "Jessica Navarro"
             ]
         }
     },
@@ -659,14 +651,15 @@
         "model": "shop_final.book",
         "pk": 42,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1929,
-            "pages": 852,
-            "isbn13": "978-0-366-53818-8",
-            "rating": 3.0,
-            "price": 2428.64,
+            "title": "Муми-тролль и комета",
+            "year": 1970,
+            "pages": 558,
+            "isbn13": "978-1-119-50358-3",
+            "rating": 2.0,
+            "price": 2688.89,
             "author": [
-                "Michele Merritt"
+                "Brian Todd",
+                "Jamie Hall"
             ]
         }
     },
@@ -675,13 +668,13 @@
         "pk": 43,
         "fields": {
             "title": "Муми-тролль и комета",
-            "year": 1920,
-            "pages": 3701,
-            "isbn13": "978-0-470-69774-0",
-            "rating": 0.4,
-            "price": 4630.57,
+            "year": 1943,
+            "pages": 3901,
+            "isbn13": "978-1-70861-717-2",
+            "rating": 4.5,
+            "price": 2084.74,
             "author": [
-                "Matthew Fischer"
+                "David Jackson"
             ]
         }
     },
@@ -689,15 +682,14 @@
         "model": "shop_final.book",
         "pk": 44,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1931,
-            "pages": 1876,
-            "isbn13": "978-0-17-971431-1",
-            "rating": 4.5,
-            "price": 4657.95,
+            "title": "Дюймовочка",
+            "year": 1963,
+            "pages": 2338,
+            "isbn13": "978-0-358-56319-8",
+            "rating": 2.2,
+            "price": 2693.56,
             "author": [
-                "Jeffery Lewis",
-                "Melissa Chen"
+                "Michael Hudson"
             ]
         }
     },
@@ -706,14 +698,14 @@
         "pk": 45,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1940,
-            "pages": 3093,
-            "isbn13": "978-0-7785-4535-4",
-            "rating": 2.6,
-            "price": 1803.46,
+            "year": 1952,
+            "pages": 443,
+            "isbn13": "978-1-62173-842-8",
+            "rating": 2.3,
+            "price": 4128.08,
             "author": [
-                "Alex Snyder",
-                "Tammy West"
+                "Justin Becker MD",
+                "Sheila Powell"
             ]
         }
     },
@@ -722,14 +714,15 @@
         "pk": 46,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1906,
-            "pages": 614,
-            "isbn13": "978-1-00-871930-9",
-            "rating": 4.1,
-            "price": 4690.38,
+            "year": 1980,
+            "pages": 1393,
+            "isbn13": "978-0-9640266-3-6",
+            "rating": 2.4,
+            "price": 632.93,
             "author": [
-                "Bill Stokes",
-                "Christopher Bridges"
+                "Carrie Castillo",
+                "Haley Lee",
+                "Danielle Phillips"
             ]
         }
     },
@@ -737,16 +730,15 @@
         "model": "shop_final.book",
         "pk": 47,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 2015,
-            "pages": 1670,
-            "isbn13": "978-1-357-98948-4",
-            "rating": 2.6,
-            "price": 2050.23,
+            "title": "Дюймовочка",
+            "year": 1908,
+            "pages": 1296,
+            "isbn13": "978-1-7381652-7-8",
+            "rating": 3.0,
+            "price": 1442.25,
             "author": [
-                "Lisa Miller",
-                "Kelly Willis",
-                "Tina Lyons"
+                "Mark Greene",
+                "Scott Shaw"
             ]
         }
     },
@@ -754,15 +746,14 @@
         "model": "shop_final.book",
         "pk": 48,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1942,
-            "pages": 180,
-            "isbn13": "978-1-70476-572-3",
-            "rating": 3.4,
-            "price": 1691.96,
+            "title": "Малыш и Карлсон",
+            "year": 1939,
+            "pages": 2059,
+            "isbn13": "978-0-417-98149-9",
+            "rating": 2.9,
+            "price": 2607.04,
             "author": [
-                "Dawn May",
-                "Lauren King"
+                "Kylie Parker"
             ]
         }
     },
@@ -770,16 +761,14 @@
         "model": "shop_final.book",
         "pk": 49,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1935,
-            "pages": 2406,
-            "isbn13": "978-0-586-53552-3",
-            "rating": 2.3,
-            "price": 3440.68,
+            "title": "Незнайка на луне",
+            "year": 1933,
+            "pages": 3917,
+            "isbn13": "978-0-207-88100-8",
+            "rating": 0.6,
+            "price": 2613.48,
             "author": [
-                "Kevin Thornton",
-                "Karina Thompson",
-                "Aaron James"
+                "Holly Jordan"
             ]
         }
     },
@@ -787,15 +776,16 @@
         "model": "shop_final.book",
         "pk": 50,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1973,
-            "pages": 4692,
-            "isbn13": "978-0-04-103517-9",
-            "rating": 2.9,
-            "price": 234.07,
+            "title": "Волшебник изумрудного города",
+            "year": 1912,
+            "pages": 4876,
+            "isbn13": "978-1-9998749-0-2",
+            "rating": 3.6,
+            "price": 2337.52,
             "author": [
-                "Craig Olson",
-                "John Green"
+                "John Yang",
+                "Gabriela Wilkins",
+                "Elizabeth Gutierrez"
             ]
         }
     },
@@ -804,15 +794,13 @@
         "pk": 51,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 2019,
-            "pages": 1195,
-            "isbn13": "978-1-78818-376-5",
+            "year": 1998,
+            "pages": 1567,
+            "isbn13": "978-0-7109-6093-1",
             "rating": 0.5,
-            "price": 4325.89,
+            "price": 3422.55,
             "author": [
-                "Jose Gilmore",
-                "Ariel Santos",
-                "Barbara Ortiz"
+                "Jennifer Stephenson"
             ]
         }
     },
@@ -821,15 +809,14 @@
         "pk": 52,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1909,
-            "pages": 1166,
-            "isbn13": "978-1-85838-203-6",
-            "rating": 0.4,
-            "price": 1067.06,
+            "year": 1950,
+            "pages": 964,
+            "isbn13": "978-1-58200-595-9",
+            "rating": 1.8,
+            "price": 2011.39,
             "author": [
-                "Brent Kramer",
-                "Pamela Diaz",
-                "Ryan Stephenson"
+                "Shannon Myers",
+                "Tammy Hughes"
             ]
         }
     },
@@ -837,15 +824,14 @@
         "model": "shop_final.book",
         "pk": 53,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1997,
-            "pages": 2933,
-            "isbn13": "978-0-01-190894-6",
-            "rating": 2.0,
-            "price": 3893.96,
+            "title": "Дюймовочка",
+            "year": 1980,
+            "pages": 903,
+            "isbn13": "978-0-437-33431-2",
+            "rating": 1.9,
+            "price": 2855.31,
             "author": [
-                "Cameron Thomas",
-                "Dr. Stephanie Armstrong MD"
+                "Danielle Brown"
             ]
         }
     },
@@ -854,13 +840,14 @@
         "pk": 54,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1950,
-            "pages": 4993,
-            "isbn13": "978-0-19-490534-3",
-            "rating": 0.9,
-            "price": 518.62,
+            "year": 1955,
+            "pages": 1425,
+            "isbn13": "978-0-619-59988-1",
+            "rating": 2.2,
+            "price": 3165.37,
             "author": [
-                "Jeffrey Ryan"
+                "Gary Rosales",
+                "Peggy Roberts"
             ]
         }
     },
@@ -869,15 +856,15 @@
         "pk": 55,
         "fields": {
             "title": "Муми-тролль и комета",
-            "year": 1934,
-            "pages": 1747,
-            "isbn13": "978-1-03-350405-5",
-            "rating": 0.2,
-            "price": 4435.12,
+            "year": 2011,
+            "pages": 1817,
+            "isbn13": "978-1-5414-3319-9",
+            "rating": 1.8,
+            "price": 1304.14,
             "author": [
-                "Debra Cunningham",
-                "Patricia Carroll",
-                "Alexis Mullins"
+                "Deborah Williams",
+                "Stephen Patel",
+                "Christopher Moss"
             ]
         }
     },
@@ -885,15 +872,15 @@
         "model": "shop_final.book",
         "pk": 56,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1915,
-            "pages": 3592,
-            "isbn13": "978-1-994064-53-7",
-            "rating": 2.4,
-            "price": 1202.5,
+            "title": "Незнайка на луне",
+            "year": 1945,
+            "pages": 4674,
+            "isbn13": "978-1-4827-9021-4",
+            "rating": 3.8,
+            "price": 3694.96,
             "author": [
-                "Stephanie Pham",
-                "Jamie Zuniga"
+                "Linda Gregory",
+                "Kimberly Cooke"
             ]
         }
     },
@@ -901,14 +888,16 @@
         "model": "shop_final.book",
         "pk": 57,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1989,
-            "pages": 841,
-            "isbn13": "978-1-247-41129-3",
-            "rating": 0.7,
-            "price": 4489.94,
+            "title": "Незнайка на луне",
+            "year": 2017,
+            "pages": 133,
+            "isbn13": "978-0-341-87933-6",
+            "rating": 1.5,
+            "price": 1517.26,
             "author": [
-                "Daniel Robbins"
+                "Derrick Hutchinson",
+                "Marcus Rodriguez",
+                "Jonathan Russell"
             ]
         }
     },
@@ -916,15 +905,15 @@
         "model": "shop_final.book",
         "pk": 58,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1955,
-            "pages": 3650,
-            "isbn13": "978-1-336-60986-0",
-            "rating": 1.5,
-            "price": 4651.47,
+            "title": "Незнайка на луне",
+            "year": 1944,
+            "pages": 2015,
+            "isbn13": "978-0-261-83552-8",
+            "rating": 2.9,
+            "price": 148.62,
             "author": [
-                "Randy Gallegos",
-                "Allison Hall"
+                "Arthur Garcia",
+                "Melanie Warren"
             ]
         }
     },
@@ -932,14 +921,16 @@
         "model": "shop_final.book",
         "pk": 59,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1994,
-            "pages": 1705,
-            "isbn13": "978-1-317-15541-6",
-            "rating": 3.6,
-            "price": 1453.97,
+            "title": "Муми-тролль и комета",
+            "year": 1937,
+            "pages": 3828,
+            "isbn13": "978-1-331-11001-9",
+            "rating": 4.3,
+            "price": 820.92,
             "author": [
-                "Sean Scott"
+                "Jason Turner",
+                "Billy Roman",
+                "Janice Holden"
             ]
         }
     },
@@ -947,15 +938,14 @@
         "model": "shop_final.book",
         "pk": 60,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1904,
-            "pages": 3366,
-            "isbn13": "978-1-293-45183-0",
-            "rating": 4.9,
-            "price": 1177.16,
+            "title": "Дюймовочка",
+            "year": 1914,
+            "pages": 4398,
+            "isbn13": "978-0-681-95945-3",
+            "rating": 0.7,
+            "price": 2971.41,
             "author": [
-                "Martin Thomas",
-                "David Ferguson"
+                "Shannon Hernandez"
             ]
         }
     },
@@ -964,14 +954,13 @@
         "pk": 61,
         "fields": {
             "title": "Дюймовочка",
-            "year": 1955,
-            "pages": 5000,
-            "isbn13": "978-1-366-25583-9",
-            "rating": 4.6,
-            "price": 541.43,
+            "year": 1902,
+            "pages": 1237,
+            "isbn13": "978-1-02-715099-2",
+            "rating": 1.7,
+            "price": 803.4,
             "author": [
-                "Jeffrey Beasley",
-                "Michele Hubbard"
+                "Catherine Roman"
             ]
         }
     },
@@ -979,16 +968,16 @@
         "model": "shop_final.book",
         "pk": 62,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1964,
-            "pages": 4781,
-            "isbn13": "978-1-170-34585-6",
-            "rating": 4.6,
-            "price": 3973.58,
+            "title": "Незнайка на луне",
+            "year": 2016,
+            "pages": 2336,
+            "isbn13": "978-1-176-59636-8",
+            "rating": 2.8,
+            "price": 4642.34,
             "author": [
-                "Walter Lee",
-                "Kathy Singleton",
-                "Amy Smith"
+                "Russell Ingram",
+                "Brianna Cooley",
+                "Jonathon Palmer"
             ]
         }
     },
@@ -996,15 +985,15 @@
         "model": "shop_final.book",
         "pk": 63,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1946,
-            "pages": 2192,
-            "isbn13": "978-0-596-65428-3",
-            "rating": 4.1,
-            "price": 1154.82,
+            "title": "Малыш и Карлсон",
+            "year": 2015,
+            "pages": 574,
+            "isbn13": "978-0-468-29455-5",
+            "rating": 1.7,
+            "price": 4967.89,
             "author": [
-                "Ronald Ellis",
-                "Brandy Phillips"
+                "Molly Lynch",
+                "Brian Solis"
             ]
         }
     },
@@ -1013,13 +1002,14 @@
         "pk": 64,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1997,
-            "pages": 4182,
-            "isbn13": "978-1-316-62172-1",
-            "rating": 1.3,
-            "price": 3369.54,
+            "year": 1917,
+            "pages": 4059,
+            "isbn13": "978-1-60255-990-5",
+            "rating": 2.1,
+            "price": 2905.21,
             "author": [
-                "Keith Trujillo"
+                "Amy Flowers",
+                "Gregory King"
             ]
         }
     },
@@ -1027,16 +1017,14 @@
         "model": "shop_final.book",
         "pk": 65,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1984,
-            "pages": 2989,
-            "isbn13": "978-1-68550-191-4",
-            "rating": 3.8,
-            "price": 366.87,
+            "title": "Незнайка на луне",
+            "year": 1903,
+            "pages": 3418,
+            "isbn13": "978-1-60369-064-5",
+            "rating": 1.8,
+            "price": 4489.33,
             "author": [
-                "Bridget Hawkins",
-                "Timothy Davis",
-                "Mr. Marc Hamilton"
+                "William Jacobson"
             ]
         }
     },
@@ -1044,15 +1032,15 @@
         "model": "shop_final.book",
         "pk": 66,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1983,
-            "pages": 390,
-            "isbn13": "978-1-5226-4488-0",
-            "rating": 2.5,
-            "price": 1056.92,
+            "title": "Муми-тролль и комета",
+            "year": 1941,
+            "pages": 488,
+            "isbn13": "978-1-133-71358-6",
+            "rating": 0.4,
+            "price": 4876.68,
             "author": [
-                "Tabitha Campbell",
-                "Cindy Kelly"
+                "Mary Atkins",
+                "Martin Davila"
             ]
         }
     },
@@ -1061,14 +1049,13 @@
         "pk": 67,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1951,
-            "pages": 424,
-            "isbn13": "978-0-88556-875-8",
-            "rating": 3.7,
-            "price": 4885.2,
+            "year": 1915,
+            "pages": 1928,
+            "isbn13": "978-0-671-66987-4",
+            "rating": 1.9,
+            "price": 4762.07,
             "author": [
-                "Christine Abbott",
-                "Daniel Murray"
+                "Laura Martin"
             ]
         }
     },
@@ -1077,15 +1064,14 @@
         "pk": 68,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1970,
-            "pages": 401,
-            "isbn13": "978-0-606-66744-9",
-            "rating": 4.4,
-            "price": 2460.68,
+            "year": 1922,
+            "pages": 1379,
+            "isbn13": "978-0-472-76778-6",
+            "rating": 4.6,
+            "price": 1823.57,
             "author": [
-                "Mr. Matthew Foster",
-                "Joseph King",
-                "Joshua Wilkerson"
+                "John Watson",
+                "Mr. Noah Strickland Jr."
             ]
         }
     },
@@ -1093,16 +1079,15 @@
         "model": "shop_final.book",
         "pk": 69,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1972,
-            "pages": 4692,
-            "isbn13": "978-0-603-91344-0",
-            "rating": 2.8,
-            "price": 4699.15,
+            "title": "Малыш и Карлсон",
+            "year": 1942,
+            "pages": 3294,
+            "isbn13": "978-0-88942-313-8",
+            "rating": 2.5,
+            "price": 1939.23,
             "author": [
-                "Andrea Donovan",
-                "Ashley Weiss",
-                "Theresa Black"
+                "Jessica Williams",
+                "Mary Ayala"
             ]
         }
     },
@@ -1111,13 +1096,14 @@
         "pk": 70,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1983,
-            "pages": 884,
-            "isbn13": "978-1-895515-90-9",
-            "rating": 3.8,
-            "price": 1370.55,
+            "year": 1971,
+            "pages": 4058,
+            "isbn13": "978-0-14-058976-4",
+            "rating": 1.6,
+            "price": 2755.5,
             "author": [
-                "Raymond Thompson"
+                "Amber Hess",
+                "Riley Henry"
             ]
         }
     },
@@ -1125,16 +1111,16 @@
         "model": "shop_final.book",
         "pk": 71,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1990,
-            "pages": 4856,
-            "isbn13": "978-1-4764-9019-9",
-            "rating": 4.6,
-            "price": 3921.6,
+            "title": "Муми-тролль и комета",
+            "year": 1987,
+            "pages": 191,
+            "isbn13": "978-0-388-57030-2",
+            "rating": 0.1,
+            "price": 1206.29,
             "author": [
-                "Madison Kane",
-                "Virginia Hardy",
-                "Michael Hernandez"
+                "Natasha Edwards",
+                "Patricia Phillips",
+                "Alexander Moon"
             ]
         }
     },
@@ -1142,16 +1128,16 @@
         "model": "shop_final.book",
         "pk": 72,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1905,
-            "pages": 4606,
-            "isbn13": "978-1-59700-730-6",
-            "rating": 4.8,
-            "price": 732.91,
+            "title": "Муми-тролль и комета",
+            "year": 1979,
+            "pages": 667,
+            "isbn13": "978-1-06-899261-2",
+            "rating": 2.9,
+            "price": 2587.16,
             "author": [
-                "John Short",
-                "Krista Lee",
-                "Hunter Walls"
+                "Wesley White",
+                "Mrs. Jessica Rodriguez",
+                "Jennifer Mullen"
             ]
         }
     },
@@ -1160,15 +1146,14 @@
         "pk": 73,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 1936,
-            "pages": 1638,
-            "isbn13": "978-0-9938960-9-5",
-            "rating": 1.2,
-            "price": 936.77,
+            "year": 2002,
+            "pages": 1035,
+            "isbn13": "978-0-03-962172-8",
+            "rating": 2.8,
+            "price": 2339.86,
             "author": [
-                "Susan Higgins",
-                "Jasmine Jones",
-                "Joseph Davidson"
+                "Sara Suarez",
+                "Jordan Spencer"
             ]
         }
     },
@@ -1176,16 +1161,15 @@
         "model": "shop_final.book",
         "pk": 74,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1965,
-            "pages": 1432,
-            "isbn13": "978-0-675-65503-3",
-            "rating": 2.2,
-            "price": 3195.83,
+            "title": "Незнайка на луне",
+            "year": 1950,
+            "pages": 4046,
+            "isbn13": "978-0-941400-92-3",
+            "rating": 2.7,
+            "price": 3167.01,
             "author": [
-                "Timothy Hall",
-                "Leroy Willis",
-                "John Francis"
+                "Stephanie Butler",
+                "Allison Bradford"
             ]
         }
     },
@@ -1193,16 +1177,14 @@
         "model": "shop_final.book",
         "pk": 75,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1967,
-            "pages": 1109,
-            "isbn13": "978-1-80367-231-1",
-            "rating": 0.3,
-            "price": 2922.99,
+            "title": "Малыш и Карлсон",
+            "year": 2005,
+            "pages": 4861,
+            "isbn13": "978-1-74632-313-4",
+            "rating": 1.1,
+            "price": 3273.41,
             "author": [
-                "Thomas Smith",
-                "Bailey Manning",
-                "Jessica Cervantes"
+                "Christopher Cruz"
             ]
         }
     },
@@ -1211,15 +1193,13 @@
         "pk": 76,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1945,
-            "pages": 4698,
-            "isbn13": "978-1-67306-001-0",
-            "rating": 4.6,
-            "price": 1736.81,
+            "year": 1999,
+            "pages": 2165,
+            "isbn13": "978-0-14-290497-8",
+            "rating": 2.0,
+            "price": 3720.45,
             "author": [
-                "William Thompson",
-                "Michelle Smith",
-                "Laura Knapp"
+                "Mr. Christopher Velazquez"
             ]
         }
     },
@@ -1227,16 +1207,15 @@
         "model": "shop_final.book",
         "pk": 77,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 2014,
-            "pages": 3194,
-            "isbn13": "978-1-352-19775-4",
-            "rating": 3.6,
-            "price": 4348.26,
+            "title": "Незнайка на луне",
+            "year": 1968,
+            "pages": 2096,
+            "isbn13": "978-0-674-58234-7",
+            "rating": 2.6,
+            "price": 3196.99,
             "author": [
-                "Maria Wilkinson",
-                "Gabriella Simmons",
-                "Jennifer Whitney"
+                "Amber Smith",
+                "John Richmond"
             ]
         }
     },
@@ -1244,14 +1223,14 @@
         "model": "shop_final.book",
         "pk": 78,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1927,
-            "pages": 2968,
-            "isbn13": "978-0-550-16645-6",
-            "rating": 0.7,
-            "price": 2069.07,
+            "title": "Муми-тролль и комета",
+            "year": 1987,
+            "pages": 174,
+            "isbn13": "978-1-05-820390-2",
+            "rating": 0.5,
+            "price": 3682.08,
             "author": [
-                "Christopher Taylor"
+                "William Guzman"
             ]
         }
     },
@@ -1259,16 +1238,16 @@
         "model": "shop_final.book",
         "pk": 79,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 2004,
-            "pages": 3583,
-            "isbn13": "978-0-87543-687-6",
-            "rating": 3.9,
-            "price": 2119.72,
+            "title": "Волшебник изумрудного города",
+            "year": 2015,
+            "pages": 2204,
+            "isbn13": "978-1-4693-9361-2",
+            "rating": 2.5,
+            "price": 4962.28,
             "author": [
-                "Carolyn Taylor",
-                "Dawn Calhoun DDS",
-                "Matthew Harris"
+                "Sara Calderon",
+                "Cheryl Murphy",
+                "Christine Faulkner"
             ]
         }
     },
@@ -1276,14 +1255,15 @@
         "model": "shop_final.book",
         "pk": 80,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1959,
-            "pages": 1791,
-            "isbn13": "978-0-333-90981-2",
-            "rating": 1.9,
-            "price": 1055.94,
+            "title": "Незнайка на луне",
+            "year": 2017,
+            "pages": 3957,
+            "isbn13": "978-0-09-750583-1",
+            "rating": 4.8,
+            "price": 2545.91,
             "author": [
-                "Matthew Sims"
+                "Angela Ballard",
+                "Kristen Decker"
             ]
         }
     },
@@ -1291,15 +1271,14 @@
         "model": "shop_final.book",
         "pk": 81,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1901,
-            "pages": 1441,
-            "isbn13": "978-0-08-893999-7",
-            "rating": 2.9,
-            "price": 3761.96,
+            "title": "Муми-тролль и комета",
+            "year": 2014,
+            "pages": 1688,
+            "isbn13": "978-0-9721438-2-0",
+            "rating": 3.7,
+            "price": 4986.88,
             "author": [
-                "Catherine Benitez",
-                "Patricia Powers"
+                "April Allen"
             ]
         }
     },
@@ -1308,13 +1287,15 @@
         "pk": 82,
         "fields": {
             "title": "Малыш и Карлсон",
-            "year": 1961,
-            "pages": 885,
-            "isbn13": "978-0-654-30977-3",
-            "rating": 0.9,
-            "price": 3106.61,
+            "year": 2001,
+            "pages": 4775,
+            "isbn13": "978-0-348-71772-3",
+            "rating": 2.0,
+            "price": 1173.59,
             "author": [
-                "Rodney Byrd"
+                "Gina Klein",
+                "Ashley Cherry",
+                "David Hayes"
             ]
         }
     },
@@ -1323,15 +1304,13 @@
         "pk": 83,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 1944,
-            "pages": 1639,
-            "isbn13": "978-1-77745-312-1",
-            "rating": 2.5,
-            "price": 1143.54,
+            "year": 1922,
+            "pages": 3669,
+            "isbn13": "978-1-276-59394-6",
+            "rating": 4.7,
+            "price": 3755.49,
             "author": [
-                "Nathan Dorsey",
-                "Sharon Hernandez",
-                "Kimberly Gray"
+                "Nicholas White"
             ]
         }
     },
@@ -1339,15 +1318,16 @@
         "model": "shop_final.book",
         "pk": 84,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 2018,
-            "pages": 3330,
-            "isbn13": "978-1-4971-1775-4",
-            "rating": 0.1,
-            "price": 942.66,
+            "title": "Волшебник изумрудного города",
+            "year": 2004,
+            "pages": 1450,
+            "isbn13": "978-0-08-743611-4",
+            "rating": 2.3,
+            "price": 2577.33,
             "author": [
-                "Carol Evans",
-                "Brianna Bradley"
+                "James Roy",
+                "Ashley Johnson",
+                "Elizabeth Myers"
             ]
         }
     },
@@ -1355,16 +1335,14 @@
         "model": "shop_final.book",
         "pk": 85,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1904,
-            "pages": 3633,
-            "isbn13": "978-1-68444-818-0",
-            "rating": 4.0,
-            "price": 3442.23,
+            "title": "Малыш и Карлсон",
+            "year": 2016,
+            "pages": 2250,
+            "isbn13": "978-1-191-84304-1",
+            "rating": 0.3,
+            "price": 3646.76,
             "author": [
-                "Amy Brown",
-                "James Cervantes",
-                "Cynthia Levy"
+                "Bryan Duke"
             ]
         }
     },
@@ -1372,15 +1350,16 @@
         "model": "shop_final.book",
         "pk": 86,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1960,
-            "pages": 2212,
-            "isbn13": "978-0-7753-4089-1",
-            "rating": 0.9,
-            "price": 1276.07,
+            "title": "Волшебник изумрудного города",
+            "year": 1964,
+            "pages": 2673,
+            "isbn13": "978-0-925107-70-1",
+            "rating": 0.8,
+            "price": 3293.72,
             "author": [
-                "Tiffany Short",
-                "Charles Herrera"
+                "Anthony Hayes",
+                "Margaret Johnson",
+                "Shannon Williams"
             ]
         }
     },
@@ -1389,15 +1368,14 @@
         "pk": 87,
         "fields": {
             "title": "Волшебник изумрудного города",
-            "year": 2013,
-            "pages": 1754,
-            "isbn13": "978-1-09-743225-7",
-            "rating": 1.8,
-            "price": 1531.93,
+            "year": 1999,
+            "pages": 3917,
+            "isbn13": "978-0-7237-9483-7",
+            "rating": 4.0,
+            "price": 1604.01,
             "author": [
-                "Lauren Garcia",
-                "Sarah Howard",
-                "Janet Knight"
+                "Sonya Hanson",
+                "Ann Kelley"
             ]
         }
     },
@@ -1405,14 +1383,16 @@
         "model": "shop_final.book",
         "pk": 88,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 2009,
-            "pages": 577,
-            "isbn13": "978-1-935601-06-7",
-            "rating": 4.3,
-            "price": 3152.72,
+            "title": "Малыш и Карлсон",
+            "year": 1944,
+            "pages": 1961,
+            "isbn13": "978-0-04-896402-1",
+            "rating": 3.5,
+            "price": 686.47,
             "author": [
-                "Kimberly Allison"
+                "Kelly Jones",
+                "Kerry Allen",
+                "Dustin Lam"
             ]
         }
     },
@@ -1421,15 +1401,14 @@
         "pk": 89,
         "fields": {
             "title": "Муми-тролль и комета",
-            "year": 1977,
-            "pages": 2230,
-            "isbn13": "978-0-297-94950-3",
-            "rating": 0.1,
-            "price": 315.37,
+            "year": 2020,
+            "pages": 3348,
+            "isbn13": "978-1-58144-619-7",
+            "rating": 1.2,
+            "price": 3740.98,
             "author": [
-                "Amanda Gallagher",
-                "Heather Tran",
-                "Gina Blair"
+                "Nicole Harris",
+                "Sarah Taylor"
             ]
         }
     },
@@ -1437,16 +1416,14 @@
         "model": "shop_final.book",
         "pk": 90,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1984,
-            "pages": 2748,
-            "isbn13": "978-1-5376-8235-8",
-            "rating": 3.9,
-            "price": 350.36,
+            "title": "Незнайка на луне",
+            "year": 1972,
+            "pages": 4996,
+            "isbn13": "978-0-7190-3986-7",
+            "rating": 1.0,
+            "price": 3812.76,
             "author": [
-                "Joseph Willis",
-                "John Roberts",
-                "Lindsay Tyler"
+                "Rachel James"
             ]
         }
     },
@@ -1454,15 +1431,15 @@
         "model": "shop_final.book",
         "pk": 91,
         "fields": {
-            "title": "Дюймовочка",
-            "year": 1934,
-            "pages": 2585,
-            "isbn13": "978-0-389-13428-2",
-            "rating": 1.5,
-            "price": 1054.0,
+            "title": "Незнайка на луне",
+            "year": 1914,
+            "pages": 4790,
+            "isbn13": "978-1-57188-130-4",
+            "rating": 0.9,
+            "price": 2386.13,
             "author": [
-                "Frank Williams",
-                "Haley Hernandez"
+                "Helen Anthony",
+                "Andrew Phelps"
             ]
         }
     },
@@ -1471,13 +1448,15 @@
         "pk": 92,
         "fields": {
             "title": "Муми-тролль и комета",
-            "year": 2015,
-            "pages": 206,
-            "isbn13": "978-0-463-06041-4",
-            "rating": 3.7,
-            "price": 1414.14,
+            "year": 1967,
+            "pages": 3991,
+            "isbn13": "978-1-4335-9418-2",
+            "rating": 0.9,
+            "price": 1812.1,
             "author": [
-                "Jaime Cooke"
+                "Jeremy Malone",
+                "Nancy Bell",
+                "Rebecca Horne"
             ]
         }
     },
@@ -1486,14 +1465,15 @@
         "pk": 93,
         "fields": {
             "title": "Незнайка на луне",
-            "year": 2008,
-            "pages": 65,
-            "isbn13": "978-1-06-802147-3",
-            "rating": 2.5,
-            "price": 2617.58,
+            "year": 1921,
+            "pages": 1277,
+            "isbn13": "978-1-224-82886-1",
+            "rating": 0.2,
+            "price": 670.34,
             "author": [
-                "Elizabeth Jennings",
-                "Joseph West"
+                "Charles Bautista",
+                "Nicole Poole",
+                "Troy Delacruz"
             ]
         }
     },
@@ -1501,14 +1481,15 @@
         "model": "shop_final.book",
         "pk": 94,
         "fields": {
-            "title": "Муми-тролль и комета",
-            "year": 1915,
-            "pages": 4106,
-            "isbn13": "978-0-09-218381-2",
-            "rating": 2.8,
-            "price": 3024.49,
+            "title": "Дюймовочка",
+            "year": 1954,
+            "pages": 4258,
+            "isbn13": "978-1-9811-2368-1",
+            "rating": 2.4,
+            "price": 3957.95,
             "author": [
-                "Michelle Conley"
+                "Sherry Munoz",
+                "Shannon Lewis"
             ]
         }
     },
@@ -1516,14 +1497,14 @@
         "model": "shop_final.book",
         "pk": 95,
         "fields": {
-            "title": "Волшебник изумрудного города",
-            "year": 1913,
-            "pages": 1760,
-            "isbn13": "978-0-380-40768-2",
-            "rating": 0.5,
-            "price": 425.75,
+            "title": "Муми-тролль и комета",
+            "year": 1916,
+            "pages": 2618,
+            "isbn13": "978-0-949643-11-7",
+            "rating": 2.4,
+            "price": 3924.21,
             "author": [
-                "Nancy Strong"
+                "Michele Cochran"
             ]
         }
     },
@@ -1531,14 +1512,15 @@
         "model": "shop_final.book",
         "pk": 96,
         "fields": {
-            "title": "Малыш и Карлсон",
-            "year": 1969,
-            "pages": 2294,
-            "isbn13": "978-0-695-44684-0",
+            "title": "Муми-тролль и комета",
+            "year": 1932,
+            "pages": 3573,
+            "isbn13": "978-0-00-025741-3",
             "rating": 0.7,
-            "price": 4187.97,
+            "price": 2251.07,
             "author": [
-                "Roberto Martin"
+                "Kurt Rollins MD",
+                "Stacy Evans"
             ]
         }
     },
@@ -1546,16 +1528,16 @@
         "model": "shop_final.book",
         "pk": 97,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1934,
-            "pages": 3941,
-            "isbn13": "978-1-371-37897-4",
-            "rating": 3.5,
-            "price": 589.86,
+            "title": "Муми-тролль и комета",
+            "year": 2008,
+            "pages": 3755,
+            "isbn13": "978-0-9656831-2-8",
+            "rating": 2.6,
+            "price": 4633.91,
             "author": [
-                "Brian Nelson",
-                "Mrs. Jillian Gomez",
-                "Sarah Harris"
+                "Stephen Garcia",
+                "Nicole Jones",
+                "Edgar Patton"
             ]
         }
     },
@@ -1563,15 +1545,15 @@
         "model": "shop_final.book",
         "pk": 98,
         "fields": {
-            "title": "Незнайка на луне",
+            "title": "Муми-тролль и комета",
             "year": 1980,
-            "pages": 4511,
-            "isbn13": "978-0-8150-1278-8",
-            "rating": 4.2,
-            "price": 4165.16,
+            "pages": 2544,
+            "isbn13": "978-0-939814-04-6",
+            "rating": 1.3,
+            "price": 2164.73,
             "author": [
-                "Brenda Gonzalez",
-                "Brian Rodriguez"
+                "Kelly Russell",
+                "Ashley Mills"
             ]
         }
     },
@@ -1579,16 +1561,14 @@
         "model": "shop_final.book",
         "pk": 99,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 2000,
-            "pages": 1209,
-            "isbn13": "978-0-13-782614-8",
-            "rating": 3.1,
-            "price": 4796.41,
+            "title": "Муми-тролль и комета",
+            "year": 1940,
+            "pages": 121,
+            "isbn13": "978-0-623-61193-7",
+            "rating": 4.1,
+            "price": 4655.13,
             "author": [
-                "Timothy Barnes",
-                "Eric Diaz",
-                "Mary Harrison"
+                "Donna Davis"
             ]
         }
     },
@@ -1596,14 +1576,16 @@
         "model": "shop_final.book",
         "pk": 100,
         "fields": {
-            "title": "Незнайка на луне",
-            "year": 1948,
-            "pages": 3492,
-            "isbn13": "978-0-200-82170-4",
-            "rating": 0.2,
-            "price": 2001.43,
+            "title": "Дюймовочка",
+            "year": 1938,
+            "pages": 2062,
+            "isbn13": "978-0-01-295376-1",
+            "rating": 2.7,
+            "price": 4645.01,
             "author": [
-                "Paul Moore"
+                "Leah Scott",
+                "Jeremy Ortiz",
+                "Robert Camacho"
             ]
         }
     }
