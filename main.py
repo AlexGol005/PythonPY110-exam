@@ -10,6 +10,14 @@ from conf import MODEL
 J = 'output1.json'
 
 
+def main():
+    """
+    вызывает генератор списка словарей книг  100 раз и записывает результат в json файл output1.json
+    :return: список словарей книг, заполненный json файл
+    """
+    return list_gen(100)
+
+
 def model() -> str:
     """
     генерирует модель
@@ -25,10 +33,12 @@ def title() -> str:
     """
     titles = 'books.txt'
     with open(titles, encoding='utf8') as f:
-        iter_ = itertools.cycle(f)
-        for _ in range(random.randint(1, 100)):
-            a = next(iter_)
-    return a.rstrip()
+        line = next(f)
+        for num, aline in enumerate(f, 2):
+            if random.randrange(num):
+                continue
+            line = aline
+        return line.rstrip()
 
 
 def year() -> int:
@@ -125,20 +135,11 @@ def list_gen(n: int) -> list:
     Вызывает итератор генератора словаря n раз и создаёт список словарей с данными книг
     :return: список словарей с данными книг
     """
-    list_books = []
+
     a = gen()
-    for i in range(n):
-        list_books.append(next(a))
+    list_books = [next(a) for i in range(n)]
     print(list_books)
     return list_books
-
-
-def main():
-    """
-    вызывает генератор списка словарей книг  100 раз и записывает результат в json файл output1.json
-    :return: список словарей книг, заполненный json файл
-    """
-    return list_gen(100)
 
 
 if __name__ == "__main__":
